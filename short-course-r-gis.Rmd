@@ -8,7 +8,7 @@ output:
 
 ```{r setup, echo=FALSE}
 #set working directory to /data-user
-knitr::opts_knit$set(root.dir = 'C:/Users/nick/Dropbox/Work/course-repos/03-intro-r-spatial-analysis/data-user')
+knitr::opts_knit$set(root.dir = 'C:/Users/nick/Dropbox/Work/2020-010-CDRC-training/mini-r-course/course-material/data-user')
 ```
 
 # Welcome
