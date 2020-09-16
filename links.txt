@@ -1,0 +1,32 @@
+Videos:
+Prefix: Advanced GIS Methods Training: Short Course on Using R as a GIS: 
+Welcome: welcome-video.mp4 https://youtu.be/FJJZi4ThIv4
+Part 1: part1-video.mp4 https://youtu.be/XRmLW1Nrdbc
+Part 2: part2-video.mp4 https://youtu.be/6ogAXqvUEWU
+Part 3: part3-video.mp4 https://youtu.be/jgoxxfZ8eLU
+Wrap-up: wrap-up-video.mp4 https://youtu.be/uhmRjBJnMYo
+
+DKAN Description:
+This is a quick overview of working with spatial data in R. You can complete it as either a stand alone course, or as a recap before moving on to more advanced work with spatial data in R. 
+
+It is split into three sections, each with a short video clip and a series of commands to work through:  
+
+- Part 1: What is R & how does it work? 
+- Part 2: Mapping spatial data in R 
+- Part 3: Working with Loops in R 
+  
+If you are new to R, expect this to take between 1 and 2 hours to work through. It is recommended that you take a break between each part. 
+
+After completing this material, you will:  
+
+- Be able to use R to read in CSV data  
+- Be able to use R to read in spatial data  
+- Know how to plot spatial data in R  
+- Know how to customize colours and classifications  
+- Understand how to use loops for multiple maps  
+
+To access the course, open the file below, short-course-r-gis.html, ideally in a new tab. It is recommended that you have the course material open in one window, and RStudio open in another window next to it, using either a big monitor, or two monitors. If you have any comments or feedback, please email us.  
+
+CDRC periodically run training course featuring the material in this course. Please sign up to our mailing list, check out our website (www.cdrc.ac.uk)[www.cdrc.ac.uk] or email [mailto:info@cdrc.ac.uk](info@cdrc.ac.uk) for more details. 
+
+https://data.cdrc.ac.uk/node/1994/
