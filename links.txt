@@ -1,3 +1,7 @@
+Page on data.cdrc.ac.uk: https://data.cdrc.ac.uk/dataset/short-course-using-r-gis
+Direct link to course (log-in needed): https://data.cdrc.ac.uk/system/files/short-course-r-gis_0.html
+Source files on GitHub: https://github.com/nickbearman/short-course-r-gis
+
 Videos:
 Prefix: Advanced GIS Methods Training: Short Course on Using R as a GIS: 
 Welcome: welcome-video.mp4 https://youtu.be/FJJZi4ThIv4
